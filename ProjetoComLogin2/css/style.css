@@ -1,0 +1,46 @@
+/* CSS do FORM CADASTRO
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: sans-serif;
+	justify-content: center;
+	margin-top: 150px;
+}
+
+
+.form{
+	text-align: center;
+}
+
+.form input[type="text"]{
+	text-align: center;
+}
+
+.form input[type="radio"]{
+	font-size: 1em;
+}
+
+.geral{
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+
+.botao{
+	cursor: pointer;
+	color: black;
+	font-weight: bold;
+	padding: 5px;
+	background-color: none;
+	border: solid 2px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+
+.botao:hover{
+	background-color: white;
+	padding: 8px;
+}
